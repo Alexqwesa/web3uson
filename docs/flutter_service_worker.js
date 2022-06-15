@@ -7,9 +7,9 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "40b6c920dabf8a6a49c456847cefc891",
-"/": "40b6c920dabf8a6a49c456847cefc891",
-"main.dart.js": "d843f7598ba4c940a85e4556a7738910",
+"index.html": "41e43a3411c7fc0eb8b17172e379ecbf",
+"/": "41e43a3411c7fc0eb8b17172e379ecbf",
+"main.dart.js": "af2d5a78c0eed0f7293b152a713d797e",
 "version.json": "1e321642678691ac939d29adb2b22b43",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
@@ -178,7 +178,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/ais-3uson-logo.png": "536d2725415bf3b968f12cf8ab10ba56",
 "assets/assets/ais-3uson-logo-128.png": "1e2a76c35a3429f04e52733e49f974fe",
-"assets/NOTICES": "33b8e7d38ac2f9ef7cb3882c71030045",
+"assets/NOTICES": "08cc38c17dee8da431a2505395c99154",
 "manifest.json": "ca7ff5bc370a12ac344d6ef86fcc62d9"
 };
 
