@@ -8,8 +8,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"index.html": "197527ab99389149eb0c217f809061c1",
-"/": "197527ab99389149eb0c217f809061c1",
+"index.html": "ce6377d323611549f7c15a34e1234993",
+"/": "ce6377d323611549f7c15a34e1234993",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
@@ -179,7 +179,7 @@ const RESOURCES = {
 "assets/packages/record_windows/assets/fmedia/mod/aac.dll": "533a3cbd100c91c23861effeb3311cef",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/NOTICES": "08cc38c17dee8da431a2505395c99154",
-"main.dart.js": "ff8a2706752f6969be7c0ac83a6eae0e"
+"main.dart.js": "3a373d843f06f28abce3a4d53e970914"
 };
 
 // The application shell files that are downloaded before a service worker can
